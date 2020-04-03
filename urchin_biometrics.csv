@@ -1,0 +1,193 @@
+Tank_ID,Treatment,Urchin_ID,Date,Test_Diameter_mm,Test_Height_mm,Wet_Mass_g,Cracked_Mass_g,Gametes_Present,Sex,Mass_Sample,Lipid_Sample,Gonad_RNA_Sample,Notes
+15,Ambient,101,2020-02-21,38,21,17.63,NA,NA,NA,NA,NA,NA,
+15,Ambient,102,2020-02-21,36,20,15.25,NA,NA,NA,NA,NA,NA,
+15,Ambient,103,2020-02-21,41,23,23.92,NA,NA,NA,NA,NA,NA,
+15,Ambient,104,2020-02-21,33,20,9.98,NA,NA,NA,NA,NA,NA,
+20,Ambient,105,2020-02-21,41,25,22.88,NA,NA,NA,NA,NA,NA,
+20,Ambient,106,2020-02-21,30,16,9.1,NA,NA,NA,NA,NA,NA,
+20,Ambient,107,2020-02-21,40,24,23.91,NA,NA,NA,NA,NA,NA,
+20,Ambient,108,2020-02-21,36,22,16.37,NA,NA,NA,NA,NA,NA,
+23,Ambient,109,2020-02-21,27,12,8.62,NA,NA,NA,NA,NA,NA,
+23,Ambient,110,2020-02-21,46,29,38.7,NA,NA,NA,NA,NA,NA,
+23,Ambient,111,2020-02-21,33,18,13.65,NA,NA,NA,NA,NA,NA,
+23,Ambient,112,2020-02-21,37,19,16.9,NA,NA,NA,NA,NA,NA,
+25,Ambient,113,2020-02-21,32,18,10.23,NA,NA,NA,NA,NA,NA,
+25,Ambient,114,2020-02-21,35,23,13.95,NA,NA,NA,NA,NA,NA,
+25,Ambient,115,2020-02-21,38,24,21.39,NA,NA,NA,NA,NA,NA,
+25,Ambient,116,2020-02-21,35,21,15.41,NA,NA,NA,NA,NA,NA,
+29,Ambient,117,2020-02-21,38,24,19.11,NA,NA,NA,NA,NA,NA,
+29,Ambient,118,2020-02-21,45,25,34.09,NA,NA,NA,NA,NA,NA,
+29,Ambient,119,2020-02-21,33,19,12.81,NA,NA,NA,NA,NA,NA,
+29,Ambient,120,2020-02-21,35,20,14.3,NA,NA,NA,NA,NA,NA,
+37,Ambient,121,2020-02-21,35,22,16.54,NA,NA,NA,NA,NA,NA,
+37,Ambient,122,2020-02-21,37,21,13.55,NA,NA,NA,NA,NA,NA,
+37,Ambient,123,2020-02-21,38,23,19.34,NA,NA,NA,NA,NA,NA,
+37,Ambient,124,2020-02-21,44,26,31.81,NA,NA,NA,NA,NA,NA,
+13,Intermediate,125,2020-02-21,47,28,36.39,NA,NA,NA,NA,NA,NA,
+13,Intermediate,126,2020-02-21,36,23,17.08,NA,NA,NA,NA,NA,NA,
+13,Intermediate,127,2020-02-21,34,22,17.3,NA,NA,NA,NA,NA,NA,
+13,Intermediate,128,2020-02-21,41,22,20.45,NA,NA,NA,NA,NA,NA,
+16,Intermediate,129,2020-02-21,49,27,36.88,NA,NA,NA,NA,NA,NA,
+16,Intermediate,130,2020-02-21,41,21,20.6,NA,NA,NA,NA,NA,NA,
+16,Intermediate,131,2020-02-21,35,18,12.7,NA,NA,NA,NA,NA,NA,
+16,Intermediate,132,2020-02-21,41,24,22,NA,NA,NA,NA,NA,NA,
+22,Intermediate,133,2020-02-21,36,19,13.9,NA,NA,NA,NA,NA,NA,
+22,Intermediate,134,2020-02-21,39,24,20.6,NA,NA,NA,NA,NA,NA,
+22,Intermediate,135,2020-02-21,33,20,15.7,NA,NA,NA,NA,NA,NA,
+22,Intermediate,136,2020-02-21,32,18,11.3,NA,NA,NA,NA,NA,NA,
+26,Intermediate,137,2020-02-21,29,16,10.5,NA,NA,NA,NA,NA,NA,
+26,Intermediate,138,2020-02-21,31,17,10,NA,NA,NA,NA,NA,NA,
+26,Intermediate,139,2020-02-21,32,18,13.7,NA,NA,NA,NA,NA,NA,
+26,Intermediate,140,2020-02-21,33,22,15.4,NA,NA,NA,NA,NA,NA,
+31,Intermediate,141,2020-02-21,45,27,30.2,NA,NA,NA,NA,NA,NA,
+31,Intermediate,142,2020-02-21,40,22,22.8,NA,NA,NA,NA,NA,NA,
+31,Intermediate,143,2020-02-21,35,19,15.4,NA,NA,NA,NA,NA,NA,
+31,Intermediate,144,2020-02-21,25,14,5.9,NA,NA,NA,NA,NA,NA,
+39,Intermediate,145,2020-02-21,36,20,14.4,NA,NA,NA,NA,NA,NA,
+39,Intermediate,146,2020-02-21,29,18,9.8,NA,NA,NA,NA,NA,NA,
+39,Intermediate,147,2020-02-21,37,25,20,NA,NA,NA,NA,NA,NA,
+39,Intermediate,148,2020-02-21,37,23,17.4,NA,NA,NA,NA,NA,NA,
+14,High,149,2020-02-21,40,22,26.54,NA,NA,NA,NA,NA,NA,
+14,High,150,2020-02-21,36,22,17.84,NA,NA,NA,NA,NA,NA,
+14,High,151,2020-02-21,45,21,32.44,NA,NA,NA,NA,NA,NA,
+14,High,152,2020-02-21,40,26,22.99,NA,NA,NA,NA,NA,NA,
+18,High,153,2020-02-21,39,24,23.61,NA,NA,NA,NA,NA,NA,
+18,High,154,2020-02-21,33,21,16.1,NA,NA,NA,NA,NA,NA,
+18,High,155,2020-02-21,34,21,17.22,NA,NA,NA,NA,NA,NA,
+18,High,156,2020-02-21,45,25,30.42,NA,NA,NA,NA,NA,NA,
+24,High,157,2020-02-21,32,21,12.76,NA,NA,NA,NA,NA,NA,
+24,High,158,2020-02-21,32,19,13.12,NA,NA,NA,NA,NA,NA,
+24,High,159,2020-02-21,37,23,17.61,NA,NA,NA,NA,NA,NA,
+24,High,160,2020-02-21,34,21,14.04,NA,NA,NA,NA,NA,NA,
+28,High,161,2020-02-21,33,21,13.92,NA,NA,NA,NA,NA,NA,
+28,High,162,2020-02-21,38,23,21.02,NA,NA,NA,NA,NA,NA,
+28,High,163,2020-02-21,41,24,25.75,NA,NA,NA,NA,NA,NA,
+28,High,164,2020-02-21,34,22,14.43,NA,NA,NA,NA,NA,NA,
+32,High,165,2020-02-21,33,18,14.62,NA,NA,NA,NA,NA,NA,
+32,High,166,2020-02-21,36,20,16.79,NA,NA,NA,NA,NA,NA,
+32,High,167,2020-02-21,38,25,21.55,NA,NA,NA,NA,NA,NA,
+32,High,168,2020-02-21,37,23,18.48,NA,NA,NA,NA,NA,NA,
+38,High,169,2020-02-21,35,18,15.97,NA,NA,NA,NA,NA,NA,
+38,High,170,2020-02-21,45,24,33.56,NA,NA,NA,NA,NA,NA,
+38,High,171,2020-02-21,36,19,16.73,NA,NA,NA,NA,NA,NA,
+38,High,172,2020-02-21,39,24,24.81,NA,NA,NA,NA,NA,NA,
+17,Dynamic,173,2020-02-21,40,23,22.4,NA,NA,NA,NA,NA,NA,
+17,Dynamic,174,2020-02-21,43,23,24.3,NA,NA,NA,NA,NA,NA,
+17,Dynamic,175,2020-02-21,35,18,12.1,NA,NA,NA,NA,NA,NA,
+17,Dynamic,176,2020-02-21,32,23,20,NA,NA,NA,NA,NA,NA,
+19,Dynamic,177,2020-02-21,42,22,24.4,NA,NA,NA,NA,NA,NA,
+19,Dynamic,178,2020-02-21,29,16,9,NA,NA,NA,NA,NA,NA,
+19,Dynamic,179,2020-02-21,48,29,37.6,NA,NA,NA,NA,NA,NA,
+19,Dynamic,180,2020-02-21,34,19,15.3,NA,NA,NA,NA,NA,NA,
+21,Dynamic,181,2020-02-21,33,19,13.9,NA,NA,NA,NA,NA,NA,
+21,Dynamic,182,2020-02-21,43,23,28,NA,NA,NA,NA,NA,NA,
+21,Dynamic,183,2020-02-21,30,19,16.2,NA,NA,NA,NA,NA,NA,
+21,Dynamic,184,2020-02-21,31,23,19.2,NA,NA,NA,NA,NA,NA,
+27,Dynamic,185,2020-02-21,46,25,39.2,NA,NA,NA,NA,NA,NA,
+27,Dynamic,186,2020-02-21,34,23,13.8,NA,NA,NA,NA,NA,NA,
+27,Dynamic,187,2020-02-21,40,23,20.6,NA,NA,NA,NA,NA,NA,
+27,Dynamic,188,2020-02-21,41,22,24,NA,NA,NA,NA,NA,NA,
+30,Dynamic,189,2020-02-21,25,15,6.4,NA,NA,NA,NA,NA,NA,
+30,Dynamic,190,2020-02-21,34,19,14.3,NA,NA,NA,NA,NA,NA,
+30,Dynamic,191,2020-02-21,32,17,12.3,NA,NA,NA,NA,NA,NA,
+30,Dynamic,192,2020-02-21,39,20,26,NA,NA,NA,NA,NA,NA,
+40,Dynamic,193,2020-02-21,40,24,27.6,NA,NA,NA,NA,NA,NA,
+40,Dynamic,194,2020-02-21,25,14,6.1,NA,NA,NA,NA,NA,NA,
+40,Dynamic,195,2020-02-21,48,28,46.2,NA,NA,NA,NA,NA,NA,
+40,Dynamic,196,2020-02-21,32,17,13.3,NA,NA,NA,NA,NA,NA,
+15,Ambient,201,2020-03-17,37,20,27.7,25,Yes,F,Yes,Yes,Yes,"Very small gonads, < 0.5mL for lipids/RNA"
+15,Ambient,202,2020-03-17,30,18,11.7,10.4,Yes,M,Yes,Yes,Yes,
+15,Ambient,203,2020-03-17,35,19.5,21.1,19.5,Yes,M,Yes,Yes,Yes,
+15,Ambient,204,2020-03-17,35.5,20.5,17.4,NA,NA,NA,NA,NA,NA,Frozen
+20,Ambient,205,2020-03-17,40,20,26.1,23,Yes,M,Yes,Yes,Yes,
+20,Ambient,206,2020-03-17,39,23,27.6,23.1,NA,NA,Yes,No,No,"Almost no gonads present. All gonad collected for mass, no RNA or lipid sample"
+20,Ambient,207,2020-03-17,33.5,15,17.6,17,Yes,M,,Yes,Yes,
+20,Ambient,208,2020-03-17,31,16,11.2,NA,NA,NA,NA,NA,NA,Frozen
+23,Ambient,209,2020-03-17,32,17,18.8,15.1,NA,NA,Yes,No,No,"Almost no gonads present. All gonad collected for mass, no RNA or lipid sample"
+23,Ambient,210,2020-03-17,45,25,42.6,31.3,Yes,F,Yes,Yes,Yes,
+23,Ambient,211,2020-03-17,31.5,18.5,16,14.3,Yes,M,Yes,Yes,Yes,
+23,Ambient,212,2020-03-17,29.5,17,10.3,NA,NA,NA,NA,NA,NA,Frozen
+25,Ambient,213,2020-03-17,30,17,15.5,13.4,Yes,M,Yes,Yes,Yes,
+25,Ambient,214,2020-03-17,32,16,14.4,12.1,NA,NA,Yes,Yes,Yes,Small RNA sample
+25,Ambient,215,2020-03-17,35,17.5,22.5,19.6,Yes,F,Yes,Yes,Yes,
+25,Ambient,216,2020-03-17,32.5,18,12.1,NA,NA,NA,NA,NA,NA,Frozen
+29,Ambient,217,2020-03-17,32,15,13.6,12.8,Yes,M,Yes,Yes,Yes,
+29,Ambient,218,2020-03-17,32,19,18,15.6,Yes,M,Yes,Yes,Yes,
+29,Ambient,219,2020-03-17,35,19,21.8,17.8,Yes,M,Yes,No,No,"Almost no gonads present. All gonad collected for mass, no RNA or lipid sample"
+29,Ambient,220,2020-03-17,47,24,36.9,NA,NA,NA,NA,NA,NA,Frozen
+37,Ambient,221,2020-03-17,31,16,15,13.7,NA,NA,Yes,Yes,Yes,
+37,Ambient,222,2020-03-17,43,24,37.3,27.9,NA,NA,Yes,Yes,No,No RNA sample
+37,Ambient,223,2020-03-17,33.5,19,18.9,17.3,Yes,F,Yes,Yes,Yes,
+37,Ambient,224,2020-03-17,38,20,20.7,NA,NA,NA,NA,NA,NA,Frozen
+13,Intermediate,225,2020-03-17,44,23,34.3,32.9,Yes,M,Yes,Yes,Yes,
+13,Intermediate,226,2020-03-17,35,21,25,20.5,No,NA,Yes,Yes,No,Spawned out male? Not enough gonad for RNA
+13,Intermediate,227,2020-03-17,39,20,28.4,27.4,Yes,F,Yes,Yes,Yes,
+13,Intermediate,228,2020-03-17,36,20.5,18.3,NA,NA,NA,NA,NA,NA,Frozen
+16,Intermediate,229,2020-03-17,37,22,22.9,21.4,Yes,M,Yes,Yes,Yes,
+16,Intermediate,230,2020-03-17,43,24,39.9,35.5,Yes,M,Yes,Yes,Yes,Very large gonads!
+16,Intermediate,231,2020-03-17,37,17.5,21.2,17.7,Yes,F,Yes,Yes,Yes,
+16,Intermediate,232,2020-03-17,33,18.5,14.5,NA,NA,NA,NA,NA,NA,Frozen
+22,Intermediate,233,2020-03-17,28,13,11.6,9.4,No,NA,No,No,No,No gonads present therefore no samples taken
+22,Intermediate,234,2020-03-17,37,19,24.6,21.3,NA,NA,Yes,No,No,"All gonad collected for mass, no RNA or lipid sample"
+22,Intermediate,235,2020-03-17,32,17.5,16.2,14.1,No,NA,No,No,No,No gonads present therefore no samples taken
+22,Intermediate,236,2020-03-17,36,20,17.8,NA,NA,NA,NA,NA,NA,Frozen
+26,Intermediate,237,2020-03-17,26.5,13,10.5,9.8,NA,NA,Yes,No,No,"All gonad collected for mass, no RNA or lipid sample"
+26,Intermediate,238,2020-03-17,32,18.5,17.7,15.5,NA,NA,Yes,No,No,"All gonad collected for mass, no RNA or lipid sample"
+26,Intermediate,239,2020-03-17,31,18,16.1,14.9,NA,NA,Yes,Yes,Yes,
+26,Intermediate,240,2020-03-17,31,16,11.3,NA,NA,NA,NA,NA,NA,Frozen
+31,Intermediate,241,2020-03-17,36,19,23.7,22.2,Yes,M,Yes,Yes,Yes,
+31,Intermediate,242,2020-03-17,42,22.5,31,28.1,NA,NA,Yes,Yes,Yes,
+31,Intermediate,243,2020-03-17,33,17,15.8,14.5,NA,NA,Yes,Yes,No,Not enough gonad for RNA
+31,Intermediate,244,2020-03-17,24.5,14,6.2,NA,NA,NA,NA,NA,NA,Frozen
+39,Intermediate,245,2020-03-17,34.5,19,20.7,17.4,Yes,M,Yes,Yes,Yes,
+39,Intermediate,246,2020-03-17,33,19.5,17.3,15.1,Yes,M,Yes,Yes,Yes,
+39,Intermediate,247,2020-03-17,35,22,20.4,18.4,Yes,M,Yes,Yes,Yes,
+39,Intermediate,248,2020-03-17,31.5,17,11.2,NA,NA,NA,NA,NA,NA,Frozen
+14,High,249,2020-03-17,43.5,24,38.6,32,Yes,M,Yes,Yes,Yes,
+14,High,250,2020-03-17,33,21,19.6,15.9,Yes,M,Yes,Yes,No,"Small gonads, no RNA sample"
+14,High,251,2020-03-17,37,16.5,22,20.9,Yes,F,Yes,Yes,Yes,
+14,High,252,2020-03-17,37.5,21,18.3,NA,NA,NA,NA,NA,NA,Frozen
+18,High,253,2020-03-17,35,18.5,18.8,17.4,Yes,M,Yes,Yes,Yes,
+18,High,254,2020-03-17,41.5,22.5,31.4,30.3,Yes,F,Yes,Yes,Yes,
+18,High,255,2020-03-17,41,22.5,25.5,23,Yes,M,Yes,Yes,Yes,
+18,High,256,2020-03-17,37,19,18,NA,NA,NA,NA,NA,NA,Frozen
+24,High,257,2020-03-17,30,15,13.7,11,Yes,M,Yes,Yes,Yes,
+24,High,258,2020-03-17,35.5,20,19.1,14.3,NA,NA,Yes,Yes,No,
+24,High,259,2020-03-17,35,19,14.7,11.4,NA,NA,Yes,Yes,Yes,
+24,High,260,2020-03-17,34,18,13.3,NA,NA,NA,NA,NA,NA,Frozen
+28,High,261,2020-03-17,37,19.5,24.1,21.9,Yes,F,Yes,Yes,Yes,
+28,High,262,2020-03-17,40.5,22.5,29.2,26.7,Yes,F,Yes,Yes,Yes,
+28,High,263,2020-03-17,30.5,18,16.3,13.5,No,NA,No,No,No,No gonads present therefore no samples taken
+28,High,264,2020-03-17,35,20,14.9,NA,NA,NA,NA,NA,NA,Frozen
+32,High,265,2020-03-17,31.5,19.5,16.5,14.8,NA,NA,Yes,Yes,No,"Small lipid sample, no RNA sample"
+32,High,266,2020-03-17,34,18.5,18.1,16.8,Yes,M,Yes,Yes,Yes,
+32,High,267,2020-03-17,32.5,21,19.5,14.7,Yes,M,Yes,Yes,No,"Small lipid sample, no RNA sample"
+32,High,268,2020-03-17,38,13.5,21.6,NA,NA,NA,NA,NA,NA,Frozen
+38,High,269,2020-03-17,33,17,17.6,15.6,NA,NA,Yes,Yes,Yes,
+38,High,270,2020-03-17,44,23.5,35.8,31.1,Yes,F,Yes,Yes,Yes,
+38,High,271,2020-03-17,37,19.5,25.4,24.4,Yes,F,Yes,Yes,Yes,
+38,High,272,2020-03-17,37,19,18.5,NA,NA,NA,NA,NA,NA,Frozen
+17,Dynamic,273,2020-03-17,30.5,15.5,14.3,12.7,Yes,M,Yes,Yes,No,"Small lipid sample, no RNA sample"
+17,Dynamic,274,2020-03-17,38,20.5,25.7,22.1,Yes,M,Yes,Yes,Yes,
+17,Dynamic,275,2020-03-17,36,33.5,23,22.5,Yes,F,Yes,Yes,Yes,
+17,Dynamic,276,2020-03-17,39,22.5,22.2,NA,NA,NA,NA,NA,NA,Frozen
+19,Dynamic,277,2020-03-17,39.5,18,26.4,25,Yes,F,Yes,Yes,Yes,
+19,Dynamic,278,2020-03-17,45,24.5,37.4,31.9,Yes,M,Yes,Yes,Yes,
+19,Dynamic,279,2020-03-17,25.5,15,11,9.5,No,NA,No,No,No,No gonads present therefore no samples taken
+19,Dynamic,280,2020-03-17,37,20,17.4,NA,NA,NA,NA,NA,NA,Frozen
+21,Dynamic,281,2020-03-17,34.5,21,21.1,17.5,No,NA,No,No,No,No gonads present therefore no samples taken
+21,Dynamic,282,2020-03-17,40,22,29.6,28.7,Yes,M,Yes,Yes,Yes,
+21,Dynamic,283,2020-03-17,38,21,19.5,18.2,Yes,M,Yes,Yes,Yes,Small RNA sample
+21,Dynamic,284,2020-03-17,35,20,15.7,NA,NA,NA,NA,NA,NA,Frozen
+27,Dynamic,285,2020-03-17,35,16,20.8,17.3,Yes,F,Yes,Yes,Yes,Small RNA sample
+27,Dynamic,286,2020-03-17,45.5,25,41.2,36,Yes,F,Yes,Yes,Yes,
+27,Dynamic,287,2020-03-17,40,22.5,25,23.4,Yes,M,Yes,Yes,Yes,
+27,Dynamic,288,2020-03-17,34,19,15,NA,NA,NA,NA,NA,NA,Frozen
+30,Dynamic,289,2020-03-17,30,14,14,12.2,NA,NA,Yes,No,No,All gonads used for mass sample. Uncertain about sex
+30,Dynamic,290,2020-03-17,32,16.5,16.6,14.7,Yes,M,Yes,Yes,No,"Small gonads - small lipid sample, no RNA sample"
+30,Dynamic,291,2020-03-17,28,16,7.7,6.1,No,NA,No,No,No,No gonads present therefore no samples taken
+30,Dynamic,292,2020-03-17,44,27,27.7,NA,NA,NA,NA,NA,NA,Frozen
+40,Dynamic,293,2020-03-17,40.5,23,30.7,25.1,Yes,F,Yes,Yes,Yes,
+40,Dynamic,294,2020-03-17,48.5,26,49,38.9,NA,NA,Yes,Yes,Yes,
+40,Dynamic,295,2020-03-17,26,15,7.2,6.5,No,NA,No,No,No,No gonads present therefore no samples taken
+40,Dynamic,296,2020-03-17,33,18,13.3,NA,NA,NA,NA,NA,NA,Frozen
